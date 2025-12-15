@@ -1,5 +1,7 @@
 # Basic Concepts
 - ### Basic Zig Program Structure
+  Zig functions are private by default but the main() function should be public.
+  
   ```zig
   const std = @import("std");
   
