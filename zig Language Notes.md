@@ -49,7 +49,7 @@
   ```
   Zig does not silently overflow in safe builds.
   ```zig
-  zig run hello.zig
+  $ zig run hello.zig
   condition is invalidthread 15835 panic: integer overflow
   /home/gh0s8/Documents/dev/ziging/part2/hello.zig:23:11: 0x113d2ed in main (hello.zig)
       n = n + 10;
