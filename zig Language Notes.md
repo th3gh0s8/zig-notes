@@ -61,6 +61,3 @@
   ???:?:?: 0x0 in ??? (???)
   fish: Job 1, 'zig run hello.zig' terminated by signal SIGABRT (Abort)
   ```
-- id:: 693fab94-9edc-416e-8d38-37250ed4c570
--
--
