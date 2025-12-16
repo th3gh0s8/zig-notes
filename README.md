@@ -3,6 +3,16 @@
 [![license](https://img.shields.io/github/license/th3gh0s8/zig-notes?style=flat-square)](./LICENSE)
 [![zig version](https://img.shields.io/badge/zig-%3E%3D0.11-brightgreen?style=flat-square)](https://ziglang.org)
 
+<div align="center" style="margin-top:10px">
+  <a href="https://github.com/th3gh0s8" target="_blank">
+    <img
+      src="https://github.com/th3gh0s8.png?size=160"
+      alt="th3gh0s8"
+      style="width:160px; height:160px; border-radius:50%; border:6px solid #e1e4e8; padding:6px; background:#fff; box-shadow:0 6px 18px rgba(0,0,0,0.12);"
+    />
+  </a>
+</div>
+
 Personal notes, examples, and small experiments for the Zig programming language — a concise, runnable reference for common patterns, language quirks, and quick demos.
 
 ---
@@ -161,14 +171,3 @@ This repository includes a LICENSE file at the project root. See the [LICENSE](.
 ## Contact
 
 Repository owner: th3gh0s8
-
-<!-- Bordered avatar with link -->
-<div align="center" style="margin-top:12px">
-  <a href="https://github.com/th3gh0s8" target="_blank">
-    <img src="https://github.com/th3gh0s8.png?size=120"
-         alt="th3gh0s8 avatar"
-         width="120"
-         height="120"
-         style="border:4px solid #e1e4e8; border-radius:12px; padding:6px; background:#fff;">
-  </a>
-</div>
