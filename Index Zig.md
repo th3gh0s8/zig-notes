@@ -2,7 +2,7 @@
 
 Welcome to my Zig programming language learning journey! This collection of notes documents my exploration of Zig's features, concepts, and best practices.
 - ## Table of Contents
-- [zig Language Basics](./zig%20Language%20Basics.md)
+- [zig Language Basics](./Zig%20Language%20Basics.md)
 - [Arrays in Zig](./Arrays%20in%20Zig.md)
 - ## About Zig
   
