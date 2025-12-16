@@ -1,4 +1,5 @@
 # Arrays in zig
+title:: Arrays in Zig
 - Arrays are declared with:
   ```zig
    var foo: [3]u32 = [3]u32{ 42, 108, 5423 };
