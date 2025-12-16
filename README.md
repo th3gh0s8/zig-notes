@@ -3,6 +3,7 @@
 [![license](https://img.shields.io/github/license/th3gh0s8/zig-notes?style=flat-square)](./LICENSE)
 [![zig version](https://img.shields.io/badge/zig-%3E%3D0.11-brightgreen?style=flat-square)](https://ziglang.org)
 
+<!--
 <div align="center" style="margin-top:10px">
   <a href="https://github.com/th3gh0s8" target="_blank">
     <img
@@ -12,6 +13,7 @@
     />
   </a>
 </div>
+-->
 
 Personal notes, examples, and small experiments for the Zig programming language — a concise, runnable reference for common patterns, language quirks, and quick demos.
 
